@@ -10,7 +10,7 @@ Yueying Sun y.sun63@lse.ac.uk, London School of Economics and Political Science
 April 2026
 
 ## Introduction
-This repository contains empirical and simulation studies for the mandate models for inelastic market hypothesis.
+This repository contains empirical and simulation studies of mandate models for inelastic market hypothesis.
 
 
 ## Data Sources
