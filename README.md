@@ -38,7 +38,7 @@ The analysis uses publicly available U.S. financial data:
 ### 1. `Simulation.ipynb`
 - Simulates mandate-implied stock capitalisation under two specifications for the bond capitalisation process: a binomial model and a geometric Brownian motion.
 - Examines how the mandates affect the response of stock capitalisation to changes in bond capitalisation  
-- Reproduces the result of Section 2.2 of the thesis "Two Topics in Mathematical Finance: Mandate Models and Mean-Variance Hedging".
+- Reproduces the results of Section 2.2 of the thesis "Two Topics in Mathematical Finance: Mandate Models and Mean-Variance Hedging".
 
 ---
 
@@ -46,7 +46,7 @@ The analysis uses publicly available U.S. financial data:
 - Processes data from FoF, MSPD, and CRSP  
 - Compares different data sources for U.S. bond and equity capitalisation.
 - Assesses consistency across datasets and verifies whether they exhibit similar dynamics over time.
-- Reproduces the result of Section 2.3.1 of the thesis "Two Topics in Mathematical Finance: Mandate Models and Mean-Variance Hedging".
+- Reproduces the results of Section 2.3.1 of the thesis "Two Topics in Mathematical Finance: Mandate Models and Mean-Variance Hedging".
 
 ---
 
@@ -54,7 +54,7 @@ The analysis uses publicly available U.S. financial data:
 - Constructs the bond and equity capitalisation series using Flow of Fund data.
 - Estimates two parametrised mandate models: the power mandate and the constant mandate.
 - Evaluates performance via backtesting 
-- Reproduces the result of Section 2.3.2 of the thesis "Two Topics in Mathematical Finance: Mandate Models and Mean-Variance Hedging".
+- Reproduces the results of Section 2.3.2 of the thesis "Two Topics in Mathematical Finance: Mandate Models and Mean-Variance Hedging".
 
 ---
 
