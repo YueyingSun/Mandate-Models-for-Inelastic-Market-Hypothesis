@@ -1,7 +1,11 @@
 # README
 
 ## Contact
-Author: Yueying Sun y.sun63@lse.ac.uk, London School of Economics and Political Science
+Authors and affiliations:
+
+Johannes Ruf j.ruf@lse.ac.uk, www.maths.lse.ac.uk/Personal/jruf, London School of Economics and Political Science.
+
+Yueying Sun y.sun63@lse.ac.uk, London School of Economics and Political Science
 
 April 2026
 
